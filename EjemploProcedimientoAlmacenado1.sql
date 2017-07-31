@@ -3,17 +3,18 @@
 -- de la tabla employes de la base de datos hr
 set serveroutput on
 
-create or replace procedure primer_apellido is
-    v_apellido employees.last_name%type;
-begin
+--un procedimiento almacenado es un bloque de codigo anonimo que tiene nombre
+create or replace procedure primer_apellido is --nombre del procedimeinto
+    v_apellido employees.last_name%type; --%type es usado para declarar una variable
+begin                                    --con el mismo tipo del dato de la columna
     select last_name
-    into v_apellido
+    into v_apellido  --guardo el valor que devuelve la consulta 
     from EMPLOYEES
     where employee_id = 100;
     
     dbms_output.put_line(v_apellido);
     
-    exception
+    exception -- manejo de errores
         when others then
             dbms_output.put_line('Algo salio mal');
 end; 
