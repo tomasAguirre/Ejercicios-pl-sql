@@ -7,6 +7,8 @@ ejercicios de programacion en pl/sql usando sqldeveloper y en la mayoria de ejer
 * Herramientas Usadas
 * Base de Datos HR
 
+![rafa](https://ugc.kn3.net/i/origin/http://1.bp.blogspot.com/--WsVwRiqqY4/VNUyOp3ZrRI/AAAAAAAAAKM/ogC2-K5TzHQ/s1600/barra%2Bseparadora.png)
+
 * **Home**
 
 **Ejercicios de PL/SQL!**
