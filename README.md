@@ -13,11 +13,13 @@ ejercicios de programacion en pl/sql usando sqldeveloper y en la mayoria de ejer
 
 ![oracle-pl](http://www.ivoronline.com/Coding/Languages/PLSQL/icon.png)
 
-!(http://4.bp.blogspot.com/_R2ocn_l88Hg/SvsSObf9hFI/AAAAAAAAAGw/SkUUApOHcJU/s1600/barra_separadora.png)
+![rafa](https://ugc.kn3.net/i/origin/http://1.bp.blogspot.com/--WsVwRiqqY4/VNUyOp3ZrRI/AAAAAAAAAKM/ogC2-K5TzHQ/s1600/barra%2Bseparadora.png)
 
 * **Introducción**
 
 Estos son unos ejercicios en oracle pl, los ejercicios son una guía para amigos y estudiantes que deseen tener una idea de como funcionan algunos de los elementos de este lenguaje estructurado de querys así como también proveer ejemplos y de ejercicios prácticos para ejemplificar algunos conceptos y herramientas de pl/sql
+
+![rafa](https://ugc.kn3.net/i/origin/http://1.bp.blogspot.com/--WsVwRiqqY4/VNUyOp3ZrRI/AAAAAAAAAKM/ogC2-K5TzHQ/s1600/barra%2Bseparadora.png)
 
 * **Herramientas Usadas**
 
@@ -25,6 +27,8 @@ Estos son unos ejercicios en oracle pl, los ejercicios son una guía para amigos
 * Base de datos Oracle 11g
 * Oracle Sql Developer 17.2.0
 * Base de Datos HR
+
+![rafa](https://ugc.kn3.net/i/origin/http://1.bp.blogspot.com/--WsVwRiqqY4/VNUyOp3ZrRI/AAAAAAAAAKM/ogC2-K5TzHQ/s1600/barra%2Bseparadora.png)
 
 * **Base de Datos HR**
 
