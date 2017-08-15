@@ -13,6 +13,8 @@ ejercicios de programacion en pl/sql usando sqldeveloper y en la mayoria de ejer
 
 ![oracle-pl](http://www.ivoronline.com/Coding/Languages/PLSQL/icon.png)
 
+!(http://4.bp.blogspot.com/_R2ocn_l88Hg/SvsSObf9hFI/AAAAAAAAAGw/SkUUApOHcJU/s1600/barra_separadora.png)
+
 * **Introducción**
 
 Estos son unos ejercicios en oracle pl, los ejercicios son una guía para amigos y estudiantes que deseen tener una idea de como funcionan algunos de los elementos de este lenguaje estructurado de querys así como también proveer ejemplos y de ejercicios prácticos para ejemplificar algunos conceptos y herramientas de pl/sql
